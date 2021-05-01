@@ -32,7 +32,7 @@ public class App {
 
         //pedir datos
         Scanner edad = new Scanner(System.in);
-        System.out.println("Ingrese su edad por favor: ")
+        System.out.println("Ingrese su edad por favor: ");
         String nueva = edad.nextLine();
         System.out.println("Su edad es: "+nueva);
 
