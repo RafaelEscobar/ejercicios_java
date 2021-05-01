@@ -15,7 +15,7 @@ public class Ejercicio1 {
         String terc = "I";
         String cuart = "O";
         String quint = "U";
-
+Hola 
         //Lo análizamos con condicionales
         //Si el nombre comienza con A o con E mostramos el nombre en consola
         if (nombrein.substring.toLowerCase(1, 1) == prima || nombrein.substring.equalsIgnoreCase(1, 1) == segun){
