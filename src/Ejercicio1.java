@@ -15,7 +15,7 @@ public class Ejercicio1 {
         if (nombrein.startsWith("A") || nombrein.startsWith("E")){
             System.out.println("Su nombre es: "+nombrein);
         }
-        else if (nombrein.("I") || nombrein.startsWith("O")){
+        else if (nombrein.Rafael("I") || nombrein.startsWith("O")){
 
             System.out.println("ADSI 2020");
 
